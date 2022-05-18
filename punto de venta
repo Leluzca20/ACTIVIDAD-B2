@@ -1,0 +1,35 @@
+#include<iostream>   
+ using namespace std; 
+  
+ int main() 
+ { 
+   float Al_x,Al_c=0,Al_a=0,Al_V.b1,Al_N,Al_V.iva,Al_Vdes,Al_V.b2,Al_des; 
+    
+   cout<<"Ingrese el valor de N:";  
+   cin>>Al_N; 
+    
+   do 
+   { 
+  
+   cout<<"Ingrese el valor de x:";  
+   cin>>Al_x; 
+    
+   Al_c=Al_c+1; 
+   Al_a=Al_a+Al_x; 
+  
+  
+   } 
+    
+   while(Al_c<Al_n); 
+   Al_V.b1=Al_N; 
+   Al_V.iva=Al_V.b1.*0.12; 
+   Al_Vdes=Al_V.b1*0.10; 
+   Al_V.b2=Al_V.b1+Al_V.iva-Al_Vdes; 
+    
+   cout<<"valor final a pagar es de:"; 
+   <Al_V.B2<<endl; 
+   cout<<Al_V.B2<<endl; 
+   
+   
+   return 0;
+   }
